@@ -16,7 +16,7 @@
  - Afișare mouse-uri
  - Afișare mouse-uri după masa lor (de la cel mai ușor la cel mai greu)
  
- - Adaugare componenta hardware
+ - Adaugare componentă hardware
  - Adaugare componentă periferică (tastatură/mouse)
 
 
